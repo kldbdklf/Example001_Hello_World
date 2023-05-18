@@ -1,0 +1,15 @@
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\bin\Debug\net7.0\Example001_Hello_World!.exe
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\bin\Debug\net7.0\Example001_Hello_World!.deps.json
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\bin\Debug\net7.0\Example001_Hello_World!.runtimeconfig.json
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\bin\Debug\net7.0\Example001_Hello_World!.dll
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\bin\Debug\net7.0\Example001_Hello_World!.pdb
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\Example001_Hello_World!.csproj.AssemblyReference.cache
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\Example001_Hello_World!.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\Example001_Hello_World!.AssemblyInfoInputs.cache
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\Example001_Hello_World!.AssemblyInfo.cs
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\Example001_Hello_World!.csproj.CoreCompileInputs.cache
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\Example001_Hello_World!.dll
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\refint\Example001_Hello_World!.dll
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\Example001_Hello_World!.pdb
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\Example001_Hello_World!.genruntimeconfig.cache
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example001_Hello_World!\obj\Debug\net7.0\ref\Example001_Hello_World!.dll
