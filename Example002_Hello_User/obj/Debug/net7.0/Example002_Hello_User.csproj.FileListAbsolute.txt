@@ -1,0 +1,15 @@
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\bin\Debug\net7.0\Example002_Hello_User.exe
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\bin\Debug\net7.0\Example002_Hello_User.deps.json
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\bin\Debug\net7.0\Example002_Hello_User.runtimeconfig.json
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\bin\Debug\net7.0\Example002_Hello_User.dll
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\bin\Debug\net7.0\Example002_Hello_User.pdb
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\Example002_Hello_User.csproj.AssemblyReference.cache
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\Example002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\Example002_Hello_User.AssemblyInfoInputs.cache
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\Example002_Hello_User.AssemblyInfo.cs
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\Example002_Hello_User.csproj.CoreCompileInputs.cache
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\Example002_Hello_User.dll
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\refint\Example002_Hello_User.dll
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\Example002_Hello_User.pdb
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\Example002_Hello_User.genruntimeconfig.cache
+D:\Программирование проекты\С#\Введение Гикбрейнс\Лекция 1\VS Code\Example002_Hello_User\obj\Debug\net7.0\ref\Example002_Hello_User.dll
